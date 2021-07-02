@@ -1,27 +1,29 @@
-# ClinicaPcdoc
+# Frontend implementado em solução ao desafio Full Stack da PCDOC
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
+## SAIBA MAIS SOBRE O PROJETO
 
-## Development server
+O Frontend implementado consiste na resolução do desafio Full Stack da empresa PCDOC, essa a parte destinada a criação de um Frontend. O desafio proposto consiste na criação de uma interface simples com Angular, que permita uma clinica cadastrar uma lista de atendimentos a serem realizados e ordenar esses atendimentos de acordo com um nível de prioridade, que podem ser: 1º Gestantes, Idosos e Pessoas com deficiência, prioridade máxima; 2º Encaminhados pelo médico, prioridade média; 3º Casos gerais, nenhuma prioridade. 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## TECNOLOGIAS QUE FORAM UTILIZADAS NO PROJETO
+* Javascript
+* Angular
+* Angular Material 
+* Conhecimentos de HTML e CSS
 
-## Code scaffolding
+## Servidor de Desenvolvimento
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Execute `ng serve` para rodar um servidor de desenvolvimento. Entre na url `http://localhost:4200/` a partir de um navagador para visualizar a aplicação.
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Execute `ng build` para fazer o build do projeto. Os artefatos serão armazenados no diretório `dist/`
 
-## Running unit tests
+## VEJA ALGUMAS FOTOS DE COMO FICOU A INTERFACE DO PROJETO
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![Print 1 da aplicação](https://github.com/fr-daniel/clinica-pcdoc/blob/img-1.png)
 
-## Running end-to-end tests
+![Print 2 da aplicação](https://github.com/fr-daniel/clinica-pcdoc/blob/img-2.png)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## CASO QUEIRA SABER MAIS SOBRE O PROJETO
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Pode entrar em contato comigo pelo seguinte email: fr.daniel.lima@gmail.com

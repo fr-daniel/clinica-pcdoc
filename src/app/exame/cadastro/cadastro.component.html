@@ -1,0 +1,28 @@
+<div>
+  <mat-card>
+    <form [formGroup]="atendimentoForm">
+      <h1>Cadastrar Atendimento</h1>
+      <mat-form-field class="example-full-width">
+        <mat-label>Nome Completo</mat-label>
+        <input matInput placeholder="" formControlName="nome" name="nome" />
+      </mat-form-field>
+
+      <mat-form-field class="example-full-width">
+        <mat-label>Tipo de Atendimento</mat-label>
+        <mat-select formControlName="tipoAtendimento">
+          <mat-option *ngFor="let tipo of tiposAtendimento" [value]="tipo">
+            {{ tipo.descricao }}
+          </mat-option>
+        </mat-select>
+      </mat-form-field>
+    </form>
+    <button
+      mat-raised-button
+      color="primary"
+      (click)="submit()"
+      [disabled]="atendimentoForm.invalid"
+    >
+      Adicionar
+    </button>
+  </mat-card>
+</div>

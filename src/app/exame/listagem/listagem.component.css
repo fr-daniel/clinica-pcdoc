@@ -1,0 +1,20 @@
+table {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.prioridade-media {
+  background-color:#FFD600;
+  color: #fff;
+}
+
+.prioridade-maxima {
+  background-color: #D50000;
+  color: #fff;
+}
+
+.prioridade-baixa {
+  background-color: #1B5E20;
+  color: #fff;
+}
+

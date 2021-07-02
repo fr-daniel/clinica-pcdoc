@@ -1,0 +1,11 @@
+POST http://localhost:8080/atendimentos HTTP/1.1
+content-type: application/json
+
+{
+    "nome": "Daniel",
+    "tipoAtendimento": {
+      "prioridade": 1,
+      "descricao": "Gestantes, Idosos ou Pessoas com deficiência",
+      "classificacao": "Prioridade Máxima"
+    }
+}

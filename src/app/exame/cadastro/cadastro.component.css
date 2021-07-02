@@ -1,0 +1,12 @@
+div {
+  width: 80%;
+  margin: 20px auto;
+}
+
+div form {
+  max-width: 50%;
+}
+
+.example-full-width {
+  width: 100%;
+}

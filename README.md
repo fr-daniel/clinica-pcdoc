@@ -20,9 +20,9 @@ Execute `ng build` para fazer o build do projeto. Os artefatos serão armazenado
 
 ## VEJA ALGUMAS FOTOS DE COMO FICOU A INTERFACE DO PROJETO
 
-![Print 1 da aplicação](https://github.com/fr-daniel/clinica-pcdoc/blob/img-1.png)
+![Print 1 da aplicação](https://github.com/fr-daniel/clinica-pcdoc/blob/master/blob/img-1.png)
 
-![Print 2 da aplicação](https://github.com/fr-daniel/clinica-pcdoc/blob/img-2.png)
+![Print 2 da aplicação](https://github.com/fr-daniel/clinica-pcdoc/blob/master/blob/img-2.png)
 
 ## CASO QUEIRA SABER MAIS SOBRE O PROJETO
 
